@@ -1,0 +1,8 @@
+{
+    "token" : "INSERT_DISCORD_TOKEN",
+    "twitch":
+    {
+        "clientid":"",
+        "clientsecret":""
+    }
+}
